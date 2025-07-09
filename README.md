@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 
-- 👨🏽‍💻 I’m currently working on [Thoughtworks](https://www.thoughtworks.com);
+- 👨🏽‍💻 I’m currently working on xx;
 - 🌱 I’m currently focus on Go and K8s;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: geek.colin@gmail.com;
