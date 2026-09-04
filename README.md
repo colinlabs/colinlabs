@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on xx;
 - 🌱 I’m currently focus on Go and K8s;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: geek.colin@gmail.com;
+- 📫 How to reach me: `echo Z2Vlay5jb2xpbkBnbWFpbC5jb20=|base64 -d`;
 
 
 **Languages and Tools:**
