@@ -1,13 +1,17 @@
-## Hi, I'm Colin Lee, a DevOps expert 🚀 from China.
+<div align="center">
+
+<!-- Animated banner: assets/terminal.svg (SMIL, plays once on load) -->
+<img width="100%" alt="Colin Lee — DevOps expert from China" src="assets/terminal.svg" />
 
 <!-- Badges: https://shields.io/ -->
 [![GitHub followers](https://img.shields.io/github/followers/colinlabs?label=colinlabs&style=social)](https://github.com/colinlabs)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](#contact)
 [![X: colinlabs](https://img.shields.io/twitter/follow/colinlabs?style=social)](https://x.com/colinlabs)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](#contact)
+![Profile views](https://komarev.com/ghpvc/?username=colinlabs&label=profile%20views&color=1f6feb&style=flat)
 
-<img width="42%" align="right" alt="Octocat" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</div>
 
-**About me**
+### 🧑‍💻 About me
 
 I build and run cloud-native infrastructure end to end: Kubernetes platforms,
 delivery pipelines, observability and the automation that ties them together.
@@ -22,19 +26,10 @@ manual runbooks into code.
 - 🌱 **Currently** — writing Go tooling for Kubernetes
 - 💬 Ask me about DevOps, SRE or cloud native, happy to help
 
-<br clear="right" />
-
-<a name="contact"></a>
-**Contact**
-
-```sh
-echo Z2Vlay5jb2xpbkBnbWFpbC5jb20= | base64 -d
-```
-
-**Languages and Tools**
+### 🧰 Tech stack
 
 <!-- Logos: https://www.vectorlogo.zone (ar21 = 2:1, so a shared height keeps them uniform) -->
-<p>
+<p align="center">
   <img height="48" alt="Go" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
   <img height="48" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
   <img height="48" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
@@ -54,27 +49,39 @@ echo Z2Vlay5jb2xpbkBnbWFpbC5jb20= | base64 -d
   <img height="48" alt="Fluentd" src="https://www.vectorlogo.zone/logos/fluentd/fluentd-ar21.svg" />
 </p>
 
-**GitHub Stats**
+### 📊 GitHub stats
 
-<!-- Stats: https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/colinlabs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=colinlabs&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs&theme=github_dark" />
-    <img height="165" alt="Colin Lee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinlabs&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs" />
-  </picture>
-</a>
-<!-- Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
-<a href="https://github.com/colinlabs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=colinlabs&hide_border=true&theme=github-dark-blue" />
-    <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=colinlabs&hide_border=true" />
-  </picture>
-</a>
+<p align="center">
+  <!-- Stats: https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/colinlabs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=colinlabs&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs&theme=github_dark" />
+      <img height="165" alt="Colin Lee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinlabs&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs" />
+    </picture>
+  </a>
+  <!-- Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <a href="https://github.com/colinlabs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=colinlabs&hide_border=true&theme=github-dark-blue" />
+      <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=colinlabs&hide_border=true" />
+    </picture>
+  </a>
+</p>
 
-**Recent Activity**
+### 🐍 Contributions
 
 <!-- Snake: generated daily by .github/workflows/snake.yml into the output branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinlabs/colinlabs/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/colinlabs/colinlabs/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/colinlabs/colinlabs/output/github-snake.svg" />
 </picture>
+
+<a name="contact"></a>
+### 📫 Contact
+
+```sh
+echo Z2Vlay5jb2xpbkBnbWFpbC5jb20= | base64 -d
+```
+
+<!-- Footer wave: https://github.com/kyechan99/capsule-render -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:79c0ff,100:d2a8ff&height=110&section=footer" />
