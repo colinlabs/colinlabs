@@ -1,20 +1,35 @@
-## Hi, I'm Colin Lee, a DevOps engineer 🚀 from China.
+## Hi, I'm Colin Lee, a DevOps expert 🚀 from China.
 
 <!-- Badges: https://shields.io/ -->
 [![GitHub followers](https://img.shields.io/github/followers/colinlabs?label=colinlabs&style=social)](https://github.com/colinlabs)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:geek.colin@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](#contact)
 [![X: colinlabs](https://img.shields.io/twitter/follow/colinlabs?style=social)](https://x.com/colinlabs)
 
 <img width="42%" align="right" alt="Octocat" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 **About me**
 
-- 🌱 Currently focusing on Go and Kubernetes
-- 🛠️ Building CI/CD pipelines, observability stacks and cloud-native infra
-- 💬 Ask me about anything, happy to help
-- 📫 Reach me at [geek.colin@gmail.com](mailto:geek.colin@gmail.com)
+I build and run cloud-native infrastructure end to end: Kubernetes platforms,
+delivery pipelines, observability and the automation that ties them together.
+I care about boring deployments, systems that explain themselves, and turning
+manual runbooks into code.
+
+- ☸️ **Kubernetes platforms** — cluster design, upgrades and day-2 operations
+- 🚀 **CI/CD** — pipeline-as-code with Drone and Git, from commit to production
+- 📈 **Observability** — metrics, logs and alerting with Prometheus, Grafana, Elastic and Fluentd
+- 🧭 **Service discovery** — config and service mesh basics with Consul
+- ☁️ **Cloud** — reliable, cost-aware infrastructure on Alibaba Cloud
+- 🌱 **Currently** — writing Go tooling for Kubernetes
+- 💬 Ask me about DevOps, SRE or cloud native, happy to help
 
 <br clear="right" />
+
+<a name="contact"></a>
+**Contact**
+
+```sh
+echo Z2Vlay5jb2xpbkBnbWFpbC5jb20= | base64 -d
+```
 
 **Languages and Tools**
 
