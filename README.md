@@ -9,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](#contact)
 ![Profile views](https://komarev.com/ghpvc/?username=colinlabs&label=profile%20views&color=1f6feb&style=flat)
 
+<a name="contact"></a>📫 &nbsp;`echo Z2Vlay5jb2xpbkBnbWFpbC5jb20= | base64 -d`
+
 </div>
 
 ### 🧑‍💻 About me
@@ -60,13 +62,6 @@ manual runbooks into code.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinlabs/colinlabs/output/github-snake-dark.svg" />
   <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/colinlabs/colinlabs/output/github-snake.svg" />
 </picture>
-
-<a name="contact"></a>
-### 📫 Contact
-
-```sh
-echo Z2Vlay5jb2xpbkBnbWFpbC5jb20= | base64 -d
-```
 
 <!-- Footer wave: https://github.com/kyechan99/capsule-render -->
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:79c0ff,100:d2a8ff&height=110&section=footer" />
