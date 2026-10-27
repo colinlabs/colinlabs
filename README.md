@@ -63,3 +63,18 @@ echo Z2Vlay5jb2xpbkBnbWFpbC5jb20= | base64 -d
     <img height="165" alt="Colin Lee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinlabs&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs" />
   </picture>
 </a>
+<!-- Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
+<a href="https://github.com/colinlabs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=colinlabs&hide_border=true&theme=github-dark-blue" />
+    <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=colinlabs&hide_border=true" />
+  </picture>
+</a>
+
+**Recent Activity**
+
+<!-- Snake: generated daily by .github/workflows/snake.yml into the output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinlabs/colinlabs/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/colinlabs/colinlabs/output/github-snake.svg" />
+</picture>
